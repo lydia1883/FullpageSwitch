@@ -1,2 +1,3 @@
 # FullpageSwitch
-pageSwitch
+pageSwitch.js 
+#jQuery 插件
